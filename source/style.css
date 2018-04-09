@@ -1,0 +1,23 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Delius" rel="stylesheet');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+body {
+  background-color: #41ead4ff;
+  font-family: "Open Sans", sans-serif;
+  padding: 5px 25px;
+  font-size: 25px;
+  color: #fbff12ff;
+  text-align: center;
+  font-family: 'Delius', cursive;
+  outline-color: #ff206eff;
+  outline-width: medium;
+}
+
+h1 {
+  font-family: "Merriweather", serif;
+  font-size: 58px;
+  color: #ff206eff;
+  text-align: center;
+  font-family: 'Delius', cursive;
+}
